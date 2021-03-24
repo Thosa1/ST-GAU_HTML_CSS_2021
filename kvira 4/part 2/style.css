@@ -1,0 +1,20 @@
+table{
+    border: solid black 10px;
+    height: 400px;
+    width: 700px;
+}
+
+td{
+    border: solid rgba(255, 208, 0, 0.836) 5px;
+}
+
+div{
+    background-image: url(img/4df1e8472471aa73060a17c3374479f2--thor-symbol-fandom-symbols.jpg);
+    background-size: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    border: solid 5px goldenrod;
+    margin: auto;
+}
