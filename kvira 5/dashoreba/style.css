@@ -1,0 +1,30 @@
+div{
+    min-height: 200px;
+    width: 400px;
+    border: solid 2px silver;
+}
+
+.d1{
+   border: solid 30px #c0c0c0;
+   box-sizing: border-box;
+   padding-left: 150px;
+   padding-top: 100px;
+}
+.exs1{
+    margin: auto;
+    background-color: slateblue;
+}
+
+.exs1 > ul > li{
+    margin: auto;
+    background-color: brown;
+}
+
+.exs2{
+    margin: auto;
+    background-color: springgreen;
+}
+.exs2 > ul > li{
+    margin: auto;
+    background-color: chocolate;
+}
