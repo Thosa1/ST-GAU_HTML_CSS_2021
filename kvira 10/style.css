@@ -1,0 +1,7 @@
+.video{
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+    border: solid black 3px;
+    margin: 10px auto ;
+}
